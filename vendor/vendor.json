@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "V+Bb4A2gGojke/MYWrM7bMlmHBY=",
+			"path": "github.com/TheCreeper/go-notify",
+			"revision": "b5cd14745a5c675c08f7d5c3203cf5f0324e85f3",
+			"revisionTime": "2016-02-03T00:10:56Z"
+		},
+		{
+			"checksumSHA1": "GD6bB4d/l4Qf/r1/nlZSplzJdZg=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "462d5c5828f6203e4047c47be2920315937be380",
+			"revisionTime": "2017-07-08T07:26:55Z"
+		},
+		{
+			"checksumSHA1": "gHQ2dBOhcQ77GlEtXSOOkoV7e7A=",
+			"path": "github.com/tevino/abool",
+			"revision": "3c25f2fe7cd0ef3eabefce1d90efd69a65d35b12",
+			"revisionTime": "2016-06-28T10:11:33Z"
+		}
+	],
+	"rootPath": "github.com/Safing/safing-notify"
+}

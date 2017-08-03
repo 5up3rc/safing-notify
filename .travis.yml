@@ -1,0 +1,15 @@
+dist: trusty
+language: go
+go:
+  - tip
+addons:
+  apt:
+    packages:
+    - libnetfilter-queue-dev
+install:
+- go get github.com/mattn/go-gtk/glib
+- go get github.com/mattn/go-gtk/gtk
+- go get github.com/mattn/goveralls
+script:
+- "./test travis-ci"
+- $HOME/gopath/bin/goveralls -coverprofile=profile.cov -service=travis-ci
