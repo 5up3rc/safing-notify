@@ -8,7 +8,12 @@ Safing Notify is a small utility that sits in the system tray, shows the current
 
 For more information about Safing, please check out [Safing Core](https://github.com/Safing/safing-core).
 
-## Building
+## Download
+
+We recommend to download a packaged version of all components [here](https://github.com/Safing/safing-installer/releases).  
+You can also just [download Safing Notify](https://github.com/Safing/safing-notify/releases).
+
+## Developing
 
 Currently Safing is only supported on Linux.
 
